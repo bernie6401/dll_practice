@@ -1,0 +1,4 @@
+dll-practice.layout
+libdll-practice.a
+libdll-practice.def
+Makefile.win
