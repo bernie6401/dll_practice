@@ -13,7 +13,7 @@ dll.HelloWorld()
 #-----------------------------------String&Number-----------------------------------#
 startTime = time.time()
 stu_id, num1, num2 = input("Please enter your student id and 2 numbers you want to add\n").split()
-
+stu_id = bytes(stu_id, encoding='utf-8')
 print("Adding result is: ", dll.Add(stu_id, int(num1), int(num2)))
 print("Execution time on Stdio:", time.time() - startTime, "second(s)")
 
