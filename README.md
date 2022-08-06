@@ -14,4 +14,4 @@
 ***
 
 ## Solved
-* 
+* According to [Stackoverflow post](https://stackoverflow.com/questions/55037429/passing-string-from-python-to-c-using-ctypes-only-the-first-character-is-sen), you have to transfer data type of stu_id parameter before passing through the function.
