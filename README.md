@@ -5,6 +5,11 @@
 
 ***
 
+## Knowledge
+* [This page](http://ot-note.logdown.com/posts/775098/ms-dllexport-vs-dllimport) talked about what exactly are dllimport and dllexport, though I can't aware of this totally.
+
+***
+
 ## Something Important
 * DEV-C++ IDE
 	* I use C language as my DLL file and use python as my main file language.
